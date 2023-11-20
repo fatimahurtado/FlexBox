@@ -25,4 +25,4 @@ Especifíca e grosor de la letra. En este caso fueron **negritas**.
 Esta clase sirvió para darle un efecto de tachado a una palabra en el título
 
 ### 4. Link a demo
-Puedes visualizar el proyecto en el siguiente enlace: [Página de prueba]()
+Puedes visualizar el proyecto en el siguiente enlace: [Página de prueba](https://flex-box-blue.vercel.app/)
